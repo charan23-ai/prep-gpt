@@ -1,0 +1,1511 @@
+CHAPTER  NINE
+MECHANICAL  PROPERTIES  OF FLUIDS
+9.1 INTRODUCTION
+In this chapter , we shall study  some common physical
+properties of liquids and gases. Liquids and gases can  flow
+and are ther efore, called  fluids.  It is this pr operty that
+distinguishes liquids and gases fr om solids in a basic way.
+Fluids ar e everywher e around us. Earth has an envelop of
+air and two-thir ds of its sur face is cover ed with water .  Water
+is not only necessary for our existence; every mammalian
+body constitute mostly of water . All the  pr ocesses occurring
+in living beings including plants ar e mediated by fluids. Thus
+understanding the behaviour and pr operties of fluids is
+important.
+How ar e fluids dif ferent fr om solids? What is common in
+liquids and gases? Unlike  a solid, a fluid has no definite
+shape of its own. Solids and liquids have a fixed volume,
+wher eas a gas fills the entir e volume of its container . We
+have lear nt in the pr evious chapter that the volume of solids
+can be changed by str ess. The volume of solid, liquid or gas
+depends on the str ess or pr essur e acting on it. When we
+talk about fixed volume of solid or liquid, we mean its volume
+under atmospheric pr essur e. The dif ference between gases
+and solids or liquids is that for solids or liquids the change
+in volume due to  change of exter nal pr essur e is rather small.
+In other wor ds solids and liquids have much lower
+compr essibility as compar ed to gases.
+Shear str ess can change the shape of a solid keeping its
+volume fixed. The key pr operty of fluids is that they of fer
+very little r esistance to shear str ess; their shape changes by
+application of very small shear str ess. The shearing str ess
+of fluids is about million times smaller than that of solids.
+9.2  PRESSURE
+A sharp needle when pressed against our skin pierces it. Our
+skin, however , remains intact when a blunt object with a
+wider contact ar ea (say the back of a spoon) is pr essed against
+it with the same for ce. If an elephant wer e to step on a man’s
+chest, his ribs would crack. A cir cus per former acr oss whose9.1 Introduction
+9.2 Pressure
+9.3 Streamline flow
+9.4 Bernoulli’s principle
+9.5 Viscosity
+9.6 Surface tension
+Summary
+Points to ponder
+Exercises
+Additional exercises
+Appendix
+Reprint 2025-26
+
+chest a large, light but strong wooden plank is
+placed first, is saved fr om this accident. Such
+everyday experiences convince us that both the
+force and its coverage ar ea are important. Smaller
+the ar ea on which the for ce acts, gr eater is the
+impact. This impact is known  as pressure.
+When an object is submer ged in a fluid at
+rest, the fluid exerts a for ce on its sur face. This
+force is always nor mal to the object’s sur face.
+This is so because if ther e wer
+e a component of
+force parallel to the sur face, the object will also
+exert a for ce on the fluid parallel to it; as a
+consequence of Newton’s thir d law. This for ce
+will cause the fluid to flow parallel to the sur face.
+Since the fluid is at r est, this cannot happen.
+Hence, the for ce exerted by the fluid at r est has
+to be perpendicular to the sur face in contact
+with it. This is shown in Fig.9.1(a).
+The nor mal for ce exerted by the fluid at a point
+may be measur ed. An idealised for m of one such
+pressure-measuring device is shown in Fig.
+9.1(b). It consists of an evacuated chamber with
+a spring that is calibrated to measur e the for ce
+acting on the piston. This device is placed at a
+point inside the fluid. The inwar d force exerted
+by the fluid on the piston is balanced by the
+outwar d spring for ce and is ther eby measur ed.
+If F is the magnitude of this nor mal for ce on the
+piston of area A then the average pressure  Pav
+is defined as the nor mal for ce acting per unit
+area.
+PF
+Aav=              (9.1)In principle, the piston area can be made
+arbitrarily small. The pr essur e is then defined
+in a limiting sense as
+P = lim
+∆A 0→Δ
+ΔF
+A(9.2)
+Pressur e is a scalar quantity. W e remind the
+reader that it is the component of the for ce
+normal to the ar ea under consideration and not
+the (vector) for ce that appears in the numerator
+in Eqs. (9.1) and (9.2). Its dimensions are
+[ML–1T–2]. The SI unit of pr essur e is N m–2. It has
+been named as pascal (Pa) in honour of the
+French scientist Blaise Pascal (1623-1662) who
+carried out pioneering studies on fluid pr essur e.
+A common unit of pr essur e is the atmospher e
+(atm), i.e. the pr essur e exerted by the
+atmospher e at sea level (1 atm = 1.013 × 105 Pa).
+Another quantity, that is indispensable in
+describing fluids, is the density ρ. For a fluid of
+mass m occupying volume V,
+ρ=m
+V(9.3)
+The dimensions of density are [ML–3]. Its SI
+unit is kg m–3. It is a positive scalar quantity. A
+liquid is lar gely incompr essible and its density
+is ther efore, nearly constant at all pr essur es.
+Gases, on the other hand exhibit a lar ge
+variation in densities with pr essur e.
+The density of water at 4oC (277 K) is
+1.0 × 103 kg m–3. The r elative density of a
+substance is the ratio of its density to the
+density of water at 4oC. It is a dimensionless
+positive scalar quantity. For example the r elative
+density of aluminium is 2.7. Its density is
+2.7 × 103 kg m–3
+.  The densities of some common
+fluids are displayed in Table 9.1.
+Table 9.1 Densities of some common fluids
+at STP*
+ (a) (b)
+Fig. 9.1 (a) The force exerted by the liquid in the
+beaker on the submerged object or on the
+walls is nor mal (perpendicular) to the
+surface at all points.
+(b) An idealised device for measuring
+pressur e.
+*STP means standar d temperatur e (00C) and 1 atm pr essur e.MECHANICAL PROPER TIES OF FLUIDS 181
+Reprint 2025-26
+
+182 PHYSICS⊳Example 9.1   The two thigh bones (femurs),
+each of cross-sectional area10 cm2 support
+the upper part of a human body of mass 40
+kg. Estimate the average pressure
+sustained by the femurs.
+Answer   Total cr oss-sectional ar ea of the
+femurs is A = 2 × 10 cm2 = 20 × 10–4 m2. The
+force acting on them is F = 40kg wt = 400 N
+(taking g = 10 m s–2). This for ce is acting
+vertically down and hence, nor mally on the
+femurs. Thus, the average pr essur e is
+2 5m  N  10   2     −× = =AFPav                             ⊳
+9.2.1 Pascal’s Law
+The French scientist Blaise Pascal observed that
+the pr essur e in a fluid at r est is the same at all
+points if they ar e at the same height. This fact
+may be demonstrated in a simple way.
+Fig. 9.2 shows an element in the interior of a
+fluid at rest. This element ABC-DEF is in the
+form of a right-angled prism. In principle, this
+prismatic element is very small so that every
+part of it can be consider ed at the same depth
+from the liquid sur face and ther efore, the ef fect
+of the gravity is the same at all these points.
+But for clarity we have enlar ged this element.
+The for ces on this element ar e those exerted by
+the rest of the fluid and they must be nor mal to
+the sur faces of the element as discussed above.
+Thus, the fluid exerts pr essur es Pa, Pb and Pc onthis element of area corresponding to the normal
+forces Fa, Fb and Fc as shown in Fig. 9.2 on the
+faces BEFC, ADFC and ADEB denoted by Aa, Ab
+and Ac respectively. Then
+Fb sinθ = Fc,Fb cosθ = Fa(by equilibrium)
+Ab sinθ = Ac,Ab cosθ = Aa(by geometry)
+Thus,
+;b c a
+b c a
+b c aF F FP P PA A A= = = =(9.4)
+Hence, pressure exerted is same in all
+directions in a fluid at r est. It again r eminds us
+that like other types of str ess, pr essur e is not a
+vector quantity. No dir ection can be assigned
+to it.  The for ce against any ar ea within (or
+bounding) a fluid at r est and under pr essur e is
+normal to the ar ea, regardless of the orientation
+of the ar ea.
+Now consider a fluid element in the for m of a
+horizontal bar of unifor m cross-section. The bar
+is in equilibrium. The horizontal for ces exerted
+at its two ends  must be balanced or the
+pressur e at the two ends should be equal. This
+proves that for a liquid in equilibrium the
+pressur e is same at all points in a horizontal
+plane. Suppose the pr essur e wer e not equal in
+different parts of the fluid, then ther e would be
+a flow as the  fluid will have some net for ce
+acting on it. Hence in the absence of flow the
+pressure in the fluid must be same everywhere
+in a horizontal plane.
+9.2.2 Variation of Pressure with Depth
+Consider a fluid at r est in a container . In
+Fig. 9.3 point 1 is at height h above a point 2.
+The pr essur es at points 1 and 2 ar e P1 and P2
+respectively. Consider a cylindrical element of
+fluid having ar ea of base A and height h. As the
+fluid is at r est the r esultant horizontal for ces
+should be zer o and the r esultant vertical for ces
+should balance the weight of the element. The
+forces acting in the vertical dir ection ar e due to
+the fluid pr essur e at the top ( P1A) acting
+downwar d, at the bottom ( P2A) acting upwar d.
+If mg is weight of the fluid in the cylinder we
+have
+(P2 − P1) A = mg (9.5)
+Now, if ρ is the mass density of the fluid, we
+have the mass of fluid to be m = ρV= ρhA so
+that
+P2 − P1=  ρgh (9.6)Fig. 9.2 Proof of Pascal’s law. ABC-DEF is an
+element of the interior of a fluid at r est.
+This element is in the for m of a right-
+angled prism. The element is small so that
+the ef fect of gravity can be ignor ed, but it
+has been enlar ged for the sake of clarity.
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 183⊳
+Fig.9.3 Fluid under gravity. The effect of gravity is
+illustrated through pressure on a vertical
+cylindrical column.
+Pressur e difference depends on the vertical
+distance h between the points (1 and 2), mass
+density of the fluid ρ and acceleration due to
+gravity g. If the point 1 under discussion is
+shifted to the top of the  fluid (say, water), which
+is open to the atmospher e, P1 may be r eplaced
+by atmospheric pr essur e (Pa) and we r eplace P2
+by P. Then Eq. (9.6) gives
+P = Pa + ρgh (9.7)
+Thus, the pr essur e P, at depth below the
+surface of a liquid open to the atmospher e is
+greater than atmospheric pr essur e by an
+amount ρgh. The excess of pr essur e, P − Pa, at
+depth h is called a gauge pressure  at that point.
+The ar ea of the cylinder is not appearing in
+the expression of absolute pressure in Eq. (9.7).
+Thus, the height of the fluid column is important
+and not cros s-sectional or base area or the shape
+of the container . The liquid pressur e is the same
+at all points at the same horizontal level (same
+depth).  The result is appreciated through the
+example of hydrostatic paradox . Consider three
+vessels A, B and C  [Fig.9.4] of different shapes.
+They are connected at the bottom by a horizontal
+pipe. On filling with water , the level in the thr ee
+vessels is the same, though they hold different
+amounts of water . This is so because water at
+the bottom has the same pressure below each
+section of the vessel.Fig 9.4 Illustration of hydrostatic paradox. The
+three vessels A, B and C contain dif ferent
+amounts of liquids, all upto the same
+height.
+Example 9.2 What is the pressure on a
+swimmer 10 m below the sur face of a lake?
+Answer  Here
+h = 10 m  and ρ = 1000 kg m-3. Take g = 10 m s–2
+From Eq. ( 9.7)
+P = Pa + ρgh
+   = 1.01 × 105 Pa + 1000 kg m–3 × 10 m s–2 × 10 m
+   = 2.01 × 105 Pa
+    ≈ 2 atm
+This is a 100% incr ease in pr essur e from
+surface level. At a depth of 1 km, the increase
+in pressure is 100 atm! Submarines are designed
+to withstand such enormous pressures.   ⊳
+9.2.3 Atmospheric Pressure and
+Gauge Pressure
+The pressure of the atmosphere at any point is
+equal to the weight of a column of air of unit
+cross-sectional area extending from that point
+to the top of the atmosphere. At sea level, it is
+1.013 × 105 Pa (1 atm). Italian scientist
+Evangelista Torricelli (160 8–1647) devised for
+the first time a method for measuring
+atmospheric pr essur e. A long glass tube closed
+at one end and filled with mer cury is inverted
+into a trough of mercury as shown in Fig. 9.5 (a).
+This device is known as ‘mercury barometer’.
+The space above the mercury column in the tube
+contains only mercury vapour whose pressure
+P is so small  that it may be neglected. Thus,
+the pressure at Point A=0. The pressure inside
+the coloumn at Point B must be the same as the
+pressure at Point C, which is atmospheric
+pressure, P a.
+Pa = ρgh (9.8)
+where ρ is the density of mercury and h is the
+height of the mercury column in the tube.
+Reprint 2025-26
+
+184 PHYSICS
+⊳⊳In the experiment it is found that the mercury
+column in the barometer has a height of about
+76 cm at sea level equivalent to one atmosphere
+(1 atm). This can also be obtained using the
+value of ρ in Eq. (9.8). A common way of stating
+pressur e is in ter ms of cm or mm of mer cury
+(Hg). A pr essur e equivalent of 1 mm is called a
+torr (after T orricelli).
+1 torr = 133 Pa.
+The mm of Hg and torr ar e used in medicine
+and physiology. In meteor ology, a common unit
+is the bar and millibar .
+1 bar = 105 Pa
+An open tube manometer is a useful
+instrument for measuring pressure differences.
+It consists of a U-tube containing a suitable
+liquid i.e., a low density liquid (such as oil) for
+measuring small pressure differences and a
+high density liquid (such as mercury) for large
+pressure differences. One end of the tube is open
+to the atmosphere and the other end is
+connected to the system whose pressure we want
+to measure [see Fig. 9.5 (b)]. The pressure P at A
+is equal to pressure at point B. What we
+normally measure is the gauge pressure, which
+is P − Pa, given by Eq. (9.8) and is proportional to
+manometer height h.Pressure is same at the same level on both
+sides of the U-tube containing a fluid. For
+liquids, the density varies very little over wide
+ranges in pressure and temperature and we can
+treat it safely as a constant for our present
+purposes. Gases on the other hand, exhibits
+large variations of densities with changes in
+pressure and temperature. Unlike gases, liquids
+are, therefore, largely treated as incompressible.
+Example 9.3  The density of the
+atmosphere at sea level is 1.29 kg/m3.
+Assume that it does not change with
+altitude. Then how high would the
+atmosphere extend?
+Answer  We use Eq. (9.7)
+ρgh  =  1.29 kg m–3 × 9.8 m s2 × h  m = 1.01 ×  105 Pa
+∴ h = 7989 m ≈ 8 km
+In reality the density of air decreases with
+height. So does the value of g. The atmospheric
+cover extends with decreasing pressure over
+100 km. W e should also note that the sea level
+atmospheric pressure is not always 760 mm of
+Hg. A drop in the Hg level by 10 mm or more is a
+sign of an approaching storm. ⊳
+Example 9.4  At a depth of 1000 m in an
+ocean (a) what is the absolute pressure?
+(b) What is the gauge pressure? (c) Find
+the force acting on the window of area
+20 cm × 20 cm of a submarine at this depth,
+the interior of which is maintained at sea-
+level atmospheric pressure. (The density of
+sea water is 1.03 × 103 kg m-3,
+g = 10 m s–2.)
+(b) The open tube manometer
+Fig 9.5   Two pressure measuring devices.
+Fig 9.5 (a) The mer cury barometer .
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 185⊳Answer  Here h = 1000 m and ρ = 1.03 × 103 kg m-3.
+(a)From Eq. (9.6), absolute pressure
+P = Pa + ρgh
+= 1.01 × 105 Pa
+   + 1.03 × 103 kg m–3  × 10 m s–2 × 1000 m
+=  104.01 × 105 Pa
+≈ 104 atm
+(b)Gauge pressure is P − Pa = ρgh = Pg
+Pg = 1.03 × 103 kg m–3 × 10 ms2 × 1000 m
+    = 103 × 105 Pa
+     ≈ 103 atm
+(c)The pressure outside the submarine is
+P = Pa + ρgh and the pressure inside it is Pa.
+Hence, the net pressure acting on the
+window is gauge pressure, Pg = ρgh. Since
+the area of the window is A = 0.04 m2, the
+force acting on it is
+F = Pg A = 103 × 105 Pa × 0.04 m2 = 4.12 × 105 N
+  ⊳
+9.2.4  Hydraulic Machines
+Let us now consider what happens when we
+change the pressure on a fluid contained in a
+vessel. Consider a horizontal cylinder with a
+piston and three vertical tubes at different points
+[Fig. 9.6 (a)]. The pressure in the horizontal
+cylinder is indicated by the height of liquid
+column in the vertical tubes. It is necessarily
+the same in all. If we push the piston, the fluid
+level rises in all the tubes, again reaching the
+same level in each one of them.law. In these devices, fluids are used for
+transmitting pressure. In a hydraulic lift, as
+shown in Fig. 9.6 (b), two pistons are separated
+by the space filled with a liquid. A piston of small
+cross-section  A1 is used to exert a force F1 directly
+on the liquid. The pressure P = 1
+1F
+A is
+transmitted throughout the liquid to the larger
+cylinder attached with a larger piston of area A2,
+which results in an upward force of P × A2.
+Therefore, the piston is capable of supporting a
+large for ce (lar ge weight of, say a car , or a truck,
+placed  on the platform ) F2 = PA2 = 1 2
+1F A
+A. By
+changing the force at A1, the platform can be
+moved up or down. Thus, the applied force has
+been increased by a factor of 2
+1A
+A and this factor
+is the mechanical advantage of the device. The
+example below clarifies it.
+Fig 9.6   (a) Whenever external pressure is applied
+   on any part of a fluid in a vessel, it is
+equally transmitted in all directions.
+     This indicates that when the pressure  on the
+cylinder was increased, it was distributed
+unifor mly thr oughout. W e can say  whenever
+external pressure is applied on any part of a
+fluid contained in a vessel, it is transmitted
+undiminished and equally in all directions.
+This is another form of the Pascal’s law and it
+has many applications in daily life .
+A number of devices, such as hydraulic lift
+and hydraulic brakes,  are based on the Pascal’s
+Fig 9.6 (b) Schematic diagram illustrating the principle
+  behind the hydraulic lift, a device used
+  to lift heavy loads.
+Example 9.5  Two syringes of different
+cross-sections (without needles) filled with
+water are connected with a tightly fitted
+rubber tube filled with water . Diameters of
+the smaller piston and larger piston are
+1.0 cm and 3.0 cm respectively. (a)  Find
+the force exerted on  the larger piston when
+a force of 10 N is applied to the smaller
+piston. (b) If the smaller piston is pushed
+in through 6.0 cm, how much does the
+larger piston move out?
+Answer  (a) Since pressure is transmitted
+undiminished throughout the fluid,
+Reprint 2025-26
+
+186 PHYSICS⊳( )
+( )2–2
+2
+2 1 2–213/2 10 m
+10 N
+1/2 10 mAF FAπ
+π×
+= = ×
+×
+             = 90 N
+(b) W ater is consider ed to be per fectly
+incompr essible. V olume cover ed by the
+movement of smaller piston inwards is equal to
+volume moved outwards due to the larger piston.
+2 2 1 1A L A L =
+       j 0.67 × 10-2 m = 0.67 cm
+Note, atmospheric pressure is common to both
+pistons and has been ignored. ⊳
+Example 9.6  In a car lift compressed air
+exerts a for ce F1 on a small piston having
+a radius of 5.0 cm. This pr essur e is
+transmitted to a second piston of radius
+15 cm (Fig 9.7). If the mass of the car to be
+lifted is 1350 kg, calculate F1. What is the
+pressure necessary to accomplish this
+task? ( g = 9.8 ms-2).
+Answer  Since pr essur e is transmitted
+undiminished throughout the fluid,
+= 1470 N
+≈ 1.5 × 103 N
+The air pressure that will produce this
+force is
+This is almost double the atmospheric
+pressure.                       ⊳
+Hydraulic brakes in automobiles also work on
+the same principle. When we apply a little force
+on the pedal with our foot the master piston
+moves inside the master cylinder , and the
+pressure caused is transmitted through the
+brake oil to act on a piston of larger area. A large
+force acts on the piston and is pushed down
+expanding the brake shoes against brake lining.
+In this way, a small force on the pedal produces
+a large retarding force on the wheel. Animportant advantage of the system is that the
+pressure set up by pressing pedal is transmitted
+equally to all cylinders attached to the four
+wheels so that the braking effort is equal on
+all wheels.
+9.3  STREAMLINE FLOW
+So far we have studied fluids at rest. The study
+of the fluids in motion is known as fluid
+dynamics. When a water tap is turned on slowly,
+the water flow is smooth initially, but loses its
+smoothness when the speed of the outflow is
+increased. In studying the motion of fluids, we
+focus our attention on what is happening to
+various fluid particles at a particular point in
+space at a particular time. The flow of the fluid
+is said to be steady  if at any given point, the
+velocity of each passing fluid particle remains
+constant in time. This does not mean that the
+velocity at different points in space is same. The
+velocity of a particular particle may change as it
+moves fr om one point to another . That is, at some
+other point the particle may have a different
+velocity, but every other particle which passes
+the second point behaves exactly as the previous
+particle that has just passed that point. Each
+particle follows a smooth path, and the paths of
+the particles do not cr oss each other .
+Fig. 9.7 The meaning of streamlines. (a) A typical
+trajectory of a fluid particle.
+(b) A region of streamline flow.
+The path taken by a fluid particle under a
+steady flow is a streamline . It is defined as a
+curve whose tangent at any point is in the
+direction of the fluid velocity at that point.
+Consider the path of a particle as shown in
+Fig.9.7 (a), the curve describes how a fluid
+particle moves with time. The curve PQ is like a
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 187
+permanent map of fluid flow, indicating how the
+fluid streams. No two streamlines can cross, for
+if they do, an oncoming fluid particle can go
+either one way or the other and the flow would
+not be steady. Hence, in steady flow, the map of
+flow is stationary in time. How do we draw closely
+spaced streamlines ? If we intend to show
+streamline of every flowing particle, we would
+end up with a continuum of lines. Consider planes
+perpendicular to the direction of fluid flow e.g.,
+at thr ee points P , R and Q in Fig. 9.7 (b).  The plane
+pieces are so chosen that their boundaries be
+determined by the same set of streamlines. This
+means that number of fluid particles crossing
+the sur faces as indicated at P , R and Q is the
+same. If area of cross-sections at these points
+are AP,AR and AQ and speeds of fluid particles
+are vP, vR and vQ, then mass of fluid ∆mP crossing
+at AP in a small interval of time ∆t is ρPAPvP ∆t.
+Similarly mass of fluid ∆mR flowing or crossing
+at AR in a small interval of time ∆t is  ρRARvR ∆t
+and mass of fluid  ∆mQ is ρQAQvQ ∆t crossing at
+AQ. The mass of liquid flowing out equals the
+mass flowing in, holds in all cases. Therefore,
+ρPAPvP∆t = ρRARvR∆t = ρQAQvQ∆t (9.9)
+For flow of incompressible fluids
+ρP = ρR = ρQ
+Equation (9.9) reduces to
+APvP = ARvR = AQvQ(9.10)
+which is called the equation of continuity  and
+it is a statement of conservation of mass in flow
+of incompressible fluids. In general
+Av = constant (9.11)
+Av gives the volume flux or flow rate and
+remains constant throughout the pipe of flow.
+Thus, at narrower portions where the
+streamlines are closely spaced, velocity
+increases and its vice versa. From (Fig 9.7b) it
+is clear that AR  > AQ or   vR <  vQ, the fluid is
+accelerated while passing from R to Q. This is
+associated with a change in pressure in fluid
+flow in horizontal pipes.
+Steady flow is achieved at low flow speeds.
+Beyond a limiting value, called critical speed,
+this flow loses steadiness and becomes
+turbulent . One sees this when a fast flowing
+stream encounters rocks, small foamy
+whirlpool-like regions called ‘white water
+rapids are formed.
+Figure 9.8 displays streamlines for some
+typical flows. For example, Fig. 9.8(a) describes
+a laminar flow where the velocities at different
+points in the fluid may have different magnitudesbut their directions are parallel. Figure 9.8 (b)
+gives a sketch of turbulent flow.
+Fig. 9.8 (a) Some streamlines for fluid flow.
+(b) A jet of air striking a flat plate placed
+perpendicular to it. This is an example
+of turbulent flow.
+9.4  BERNOULLI’S PRINCIPLE
+Fluid flow is a complex phenomenon. But we
+can obtain some useful properties for steady
+or streamline flows using the conservation
+of energy.
+Consider a fluid moving in a pipe of varying
+cross-sectional ar ea. Let the pipe be at varying
+heights as shown in Fig. 9.9. W e now suppose
+that an incompr essible fluid is flowing thr ough
+the pipe in a steady flow. Its velocity must
+change as a consequence of equation of
+continuity. A force is required to produce this
+acceleration, which is caused by the fluid
+surrounding it, the pressure must be different
+in different regions. Bernoulli’s equation is a
+general expression that relates the pressure
+difference between two points in a pipe to both
+velocity changes (kinetic energy change) and
+elevation (height) changes (potential energy
+change). The Swiss Physicist Daniel Bernoulli
+developed this relationship in 1738.
+Consider the flow at two regions 1 (i.e., BC)
+and 2 (i.e., DE). Consider the fluid initially lying
+between B and D. In an infinitesimal time
+interval ∆t, this fluid would have moved. Suppose
+v1 is the speed at B and v2 at D, then fluid initially
+at B has moved a distance v1∆t to C ( v1∆t is small
+enough to assume constant cross-section along
+BC). In the same interval ∆t the fluid initially at
+D moves to E, a distance equal to v2∆t. Pressures
+P1 and P2 act as shown on the plane faces of
+areas A1 and A2 binding the two regions. The
+work done on the fluid at left end (BC) is W1 =
+P1A1(v1∆t) = P1∆V. Since the same volume ∆V
+passes through both the regions (from the
+equation of continuity) the work done by the fluid
+at the other end (DE) is W2 = P2A2(v2∆t) = P2∆V or,
+Reprint 2025-26
+
+188 PHYSICS
+the work done on the fluid is  – P2∆V. So the total
+work done on the fluid is
+W1 – W2 =  (P1− P2) ∆V
+Part of this work goes into changing the kinetic
+energy of the fluid, and part goes into changing
+the gravitational potential energy. If the density
+of the fluid is ρ and ∆m = ρA1v1∆t = ρ∆V is the
+mass passing through the pipe in time ∆t, then
+change in gravitational potential energy is
+∆U = ρg∆V (h2 − h1)
+The change in its kinetic energy is
+∆K = 1
+2       ρ ∆V (v22 − v12)
+We can employ the work – ener gy theor em
+(Chapter 6) to this volume of the fluid and
+this yields
+(P1− P2) ∆V = 1
+2       ρ ∆V (v22 − v12) + ρg∆V (h2 − h1)
+We now divide each ter m by ∆V to obtain
+(P1− P2) = 1
+2       ρ (v22 − v12) + ρg (h2 − h1)
+We can r earrange the above ter ms to obtain
+P1 + 1
+2       ρv12 + ρgh1 = P2+ 1
+2       ρv22 + ρgh2
+     (9.12)
+This is Bernoulli’s equation . Since 1 and 2
+refer to any two locations along the pipeline, we
+may write the expression in general as
+ P + 1
+2      ρv2 + ρgh = constant (9.13)In words, the Bernoulli’s relation may be
+stated as follows: As we move along a streamline
+the sum of the pressure ( P), the kinetic energy
+per unit volume ρv2
+2
+
+ and the potential energy
+per unit volume ( ρgh) remains a constant.
+Note that in applying the energy conservation
+principle, there is an assumption that no energy
+is lost due to friction. But in fact, when fluids
+flow, some energy does get lost due to internal
+friction. This arises due to the fact that in a fluid
+flow, the different layers of the fluid flow with
+different velocities. These layers exert frictional
+forces on each other resulting in a loss of energy.
+This property of the fluid is called viscosity and
+is discussed in more detail in a later section. The
+lost kinetic energy of the fluid gets converted into
+heat energy. Thus, Bernoulli’s equation ideally
+applies to fluids with zero viscosity or non-
+viscous fluids. Another restriction on application
+of Bernoulli theorem is that the fluids must be
+incompressible, as the elastic energy of the fluid
+is also not taken into consideration. In practice,
+it has a large number of useful applications and
+can help explain a wide variety of phenomena
+for low viscosity incompressible fluids.
+Bernoulli’s equation also does not hold for non-
+steady or turbulent flows, because in that
+situation velocity and pressure are constantly
+fluctuating in time.
+When a fluid is at rest i.e., its velocity is zero
+everywhere, Bernoulli’s equation becomes
+P1 + ρgh1 = P2 + ρgh2
+(P1− P2) = ρg (h2 − h1)
+which is same as Eq. (9.6).
+9.4.1 Speed of Efflux: Torricelli’s Law
+The word efflux means fluid outflow. Torricelli
+discover ed that the speed of ef flux fr om an open
+tank is given by a formula identical to that of a
+freely falling body. Consider a tank containing
+a liquid of density ρ with a small hole in its side
+at a height y1 from the bottom (see Fig. 9.10).
+The air above the liquid, whose surface is at
+height y2, is at pr essur e P. From the equation of
+continuity [Eq. (9.10)] we have
+v1 A1 = v2 A2
+vA
+Av21
+2=1Fig. 9.9 The flow of an ideal fluid in a pipe of varying
+cross section. The fluid in a section of length
+v1∆t moves to the section of length v2∆t in
+time ∆t.
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 189
+If the cross-sectional area of the tank A2 is
+much larger than that of the hole ( A2 >>A1), then
+we may take the fluid to be approximately at rest
+at the top, i.e., v2 = 0. Now, applying the Bernoulli
+equation at points 1 and 2 and noting that at
+the hole P1 = Pa, the atmospheric pressure, we
+have from Eq. (9.12)
+2
+1 1 21
+2aP  v g y P g y             + ρ + ρ = +ρ
+Taking  y2 – y1 = h we have
+( )22a
+1P Pv g h     −= +ρ(9.14)
+When P >>Pa and 2 g h may be ignored, the
+speed of efflux is determined by the container
+pressure. Such a situation occurs in rocket
+propulsion. On the other hand, if the tank is
+open to the atmosphere, then P  = Pa and
+h g v   21= (9.15)
+This is also the speed of a freely falling body.
+Equation (9.15) represents Torricelli’s law .
+9.4.2 Dynamic Lift
+Dynamic lift is the force that acts on a body,
+such as airplane wing, a hydrofoil or a spinning
+ball, by virtue of its motion through a fluid.  In
+many games such as cricket, tennis, baseball,
+or golf, we notice that a spinning ball deviatesfrom its parabolic trajectory as it moves through
+air. This deviation can be partly explained on
+the basis of Bernoulli’s principle.
+(i)Ball moving without spin : Fig. 9.11(a)
+shows the streamlines around a
+non-spinning ball moving relative to a
+fluid. From the symmetry of streamlines
+it is clear that the velocity of fluid (air)
+above and below the ball at corresponding
+points is the same resulting in zero
+pressure difference. The air therefore,
+exerts no upward or downward force on
+the ball.
+(ii)Ball moving with spin : A ball which is
+spinning drags air along with it. If the
+surface is rough more air will be dragged.
+Fig 9.11(b) shows  the streamlines of air
+for a ball which is moving and spinning
+at the same time. The ball is moving
+forward and relative to it the air is moving
+backwards. Therefore, the velocity of air
+above the ball relative to the ball is larger
+and below it is smaller (see Section 9.3).
+The stream lines, thus, get crowded above
+and rarified below.
+This difference in the velocities of air results
+in the pressure difference between the lower and
+upper faces and there is a net upward force on
+the ball. This dynamic lift due to spining is called
+Magnus effect .
+Aerofoil or lift on aircraft wing:  Figure 9.11
+(c) shows an aerofoil, which is a solid piece
+shaped to provide an upward dynamic lift
+when it moves horizontally thr ough air . The
+cross-section of the wings of an aeroplane
+looks somewhat like the aerofoil shown in Fig.
+9.11 (c) with streamlines around it. When the
+aerofoil moves against the wind, the
+orientation of the wing relative to flow direction
+causes the streamlines to crowd together
+above the wing more than those below it. The
+flow speed on top is higher than that below it.
+There is an upward force resulting in a
+dynamic lift of the wings and this balances
+the weight of the plane. The following example
+illustrates this.Fig. 9.10 Torricelli’s law. The speed of efflux, v1,
+from the side of the container is given by
+the application of Ber noulli’s equation.
+If the container is open at the top to the
+atmospher e then 1  2  hv g= .
+Reprint 2025-26
+
+190 PHYSICS⊳
+Example 9.7  A fully loaded Boeing aircraft
+has a mass of 3.3 × 105 kg. Its total wing
+area is 500 m2. It is in level flight with a
+speed of 960 km/h. (a) Estimate the
+pressure difference between the lower and
+upper surfaces of the wings (b) Estimate
+the fractional increase in the speed of the
+air on the upper surface of the wing relative
+to the lower surface. [The density of air is ρ
+= 1.2 kg m-3]
+Answer  (a) The weight of the Boeing aircraft is
+balanced by the upward force due to the
+pressure difference
+∆P × A = 3.3 × 105 kg × 9.8
+P∆= (3.3 × 105 kg × 9.8 m s–2) / 500 m2
+      = 6.5 ×103 Nm-2
+(b) W e ignor e the small height dif ference
+between the top and bottom sides in Eq. (9.12).
+The pressure difference between them is
+then
+ΔP v v=( )ρ
+222
+12–
+where v2 is the speed of air over the upper
+surface and v1 is the speed under the bottom
+surface.
+v vP
+v v2 1
+2 12–()=+( )Δ
+ρ
+Taking the average speed(a) (b) (c)
+Fig 9.11 (a) Fluid streaming past a static sphere. (b) Streamlines for a fluid around a sphere spinning  clockwise.
+(c) Air flowing past an aer ofoil.
+vav = (v2 + v1)/2 = 960 km/h = 267 m s-1,
+we have
+v v vP
+v2 1 2– /()=av
+avΔ
+ρ≈ 0.08
+The speed above the wing needs to be only 8
+% higher than that below. ⊳
+9.5  VISCOSITY
+Most of the fluids are not ideal ones and offer some
+resistance to motion. This resistance to fluid motion
+is like an internal friction analogous to friction when
+a solid moves on a surface. It is called  viscosity.
+This force exists when there is relative motion
+between layers of the liquid. Suppose we consider
+a fluid  like oil  enclosed between two glass plates
+as shown in Fig. 9 .12 (a). The bottom plate is fixed
+while the top plate  is moved with a constant
+velocity v relative to the fixed plate. If oil is
+replaced by honey, a greater force is required to
+move the plate with the same velocity. Hence
+we say that honey is more viscous than oil. The
+fluid in contact with a surface has the same
+velocity as that of the surfaces. Hence, the layer
+of the liquid in contact with top surface moves
+with a velocity v and the layer of the liquid in
+contact with the fixed surface is stationary. The
+velocities of layers increase uniformly from
+bottom (zero velocity) to the top layer (velocity
+v). For any layer of liquid, its upper layer pulls
+it forward while lower layer pulls it backward.
+This results in force between the layers. This
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 191⊳change of strain’ or ‘strain rate’ i.e. ∆x/(l ∆t) or
+v/l instead of strain itself. The coefficient of
+viscosity (pronounced ‘eta’) for a fluid is defined
+as the ratio of shearing stress to the strain rate.
+(9.16)
+The SI unit of viscosity is poiseiulle (Pl). Its
+other units are N s m-2 or Pa s. The dimensions
+of viscosity ar e [ML-1T-1]. Generally, thin liquids,
+like water , alcohol, etc., ar e less viscous than
+thick liquids, like coal tar , blood, glycerine, etc.
+The coefficients of viscosity for some common
+fluids ar e listed in T able 9.2. W e point out two
+facts about blood and water that you may find
+interesting. As Table 9.2 indicates, blood is
+‘thicker’ (mor e viscous) than water . Further , the
+relative viscosity ( η/ηwater) of blood remains
+constant between 0 oC and 37 oC.type of flow is known as laminar . The layers of
+liquid slide over one another as the pages of a
+book do when it is placed flat on a table and a
+horizontal for ce is applied to the top cover . When
+a fluid is flowing in a pipe or a tube, then  velocity
+of the liquid layer along the axis of the tube is
+maximum and  decreases  gradually as we move
+towards the walls where it becomes zero,
+Fig. 9.12 (b). The velocity on a cylindrical surface
+in a tube is constant.
+(a)
+(b)
+Fig 9.12  (a) A layer of liquid sandwiched between
+two parallel glass plates, in which the
+lower plate is fixed and the upper one is
+moving to the right with velocity v
+(b) velocity distribution for viscous flow in
+a pipe.
+On account of this motion, a portion of liquid,
+which at some instant has the shape ABCD,
+take the shape of AEFD after short interval of
+time ( ∆t). During this time interval the liquid has
+undergone a shear strain of ∆x/l. Since, the
+strain in a flowing fluid increases with time
+continuously. Unlike a solid, here the stress is
+found experimentally to depend on ‘rate ofFig. 9.13 Measurement of the coefficient of viscosity
+of a liquid.
+The viscosity of liquids decreases with
+temperature , while it increases in the case of gases.
+Example 9.8 A metal block of area 0.10 m2 is
+connected to a 0.010 kg mass via a string
+that passes over an ideal pulley (considered
+massless and frictionless), as in Fig. 9.13.
+A liquid with a film thickness of 0.30 mm
+is placed between the block and the table.
+When released the block moves to the right
+with a constant speed of 0.085 m s-1. Find
+the coefficient of viscosity of the liquid.
+Reprint 2025-26
+
+192 PHYSICS⊳Answer  The metal block moves to the right
+because of the tension in the string. The tension
+T is equal in magnitude to the weight of the
+suspended mass m. Thus, the shear force  F  is
+F = T = mg = 0.010 kg × 9.8 m s–2 = 9.8 × 10-2 N
+Shear stress on the fluid = F/A = N/m2
+Strain rate = 
+ 
+  = 
+  = 3.46 ×10-3 Pa s
+  ⊳
+Table 9.2  The viscosities of some fluids
+Fluid T(oC) Viscosity (mPl)
+Water 20 1.0
+100 0.3
+Blood 37 2.7
+Machine Oil 16 113
+38 34
+Glycerine 20 830
+Honey – 200
+Air 0 0.017
+40 0.019
+9.5.1 Stokes’ Law
+When a body falls through a fluid it drags the
+layer of the fluid in contact with it. A relative
+motion between the different layers of the fluid
+is set and, as a result, the body experiences a
+retarding force. Falling of a raindrop and
+swinging of a pendulum bob are some common
+examples of such motion. It is seen that the
+viscous force is proportional to the velocity of
+the object and is opposite to the direction of
+motion. The other quantities on which the force
+F depends are viscosity η of the fluid and radius
+a of the sphere. Sir George G. Stokes (181 9–
+1903), an English scientist enunciated clearly
+the viscous drag force F as
+6F avη= π (9.17)This is known as Stokes’ law. W e shall not
+derive Stokes’ law.
+This law is an interesting example of retarding
+force, which is pr oportional to velocity. W e can
+study its consequences on an object falling
+through a viscous  medium. W e consider a
+raindr op in air . It accelerates initially due to
+gravity. As the velocity increases, the retarding
+force also increases. Finally , when viscous force
+plus buoyant force becomes equal to  the force
+due to gravity, the net force becomes zero and so
+does the acceleration. The sphere (raindrop) then
+descends with a constant velocity. Thus , in
+equilibrium, this terminal velocity vt is given by
+6πηavt = (4π/3) a3 (ρ-σ)g
+where ρ and σ are mass densities of sphere and
+the fluid, r espectively. W e obtain
+vt = 2a2 (ρ-σ)g / (9η) (9.18)
+So the terminal velocity vt depends on the
+square of the radius of the sphere and inversely
+on the viscosity of the medium.
+You may like to r efer back to Example 6.2 in
+this context.
+Example 9.9  The terminal velocity of a
+copper ball of radius 2.0 mm falling through
+a tank of oil at 20oC is 6.5 cm s-1. Compute
+the viscosity of the oil at 20oC. Density of
+oil is 1.5 ×103 kg m-3, density of copper is
+8.9 × 103 kg m-3.
+Answer  We have vt = 6.5 × 10-2 ms-1, a = 2 × 10-3 m,
+g = 9.8 ms-2,  ρ = 8.9 × 103 kg m-3,
+σ =1.5 ×103 kg m-3. From Eq. (9.18)
+   =  9.9 × 10-1 kg m–1 s–1⊳
+9.6  SURFACE TENSION
+You must have noticed that, oil and water do
+not mix; water wets you and me but not ducks;
+mercury does not wet glass but water sticks to
+it, oil rises up a cotton wick, inspite of gravity,
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 193
+Fig. 9.14 Schematic picture of molecules in a liquid, at the surface and balance of forces. (a) Molecule inside
+a liquid. Forces on a molecule due to others are shown. Direction of arrows indicates attraction of
+repulsion. (b) Same, for a molecule at a surface. (c) Balance of attractive (AI and repulsive (R) forces.Let us consider a molecule near the surface
+Fig. 9.14(b). Only lower half side of it is
+surrounded by liquid molecules. There is some
+negative potential energy due to these, but
+obviously it is less than that of a molecule in
+bulk, i.e., the one fully inside. Approximately
+it is half of the latter . Thus, molecules on a
+liquid surface have some extra energy in
+comparison to molecules in the interior . A
+liquid, thus, tends to have the least surface
+area which external conditions permit.
+Increasing surface area requires energy. Most
+surface phenomenon can be understood in
+terms of this fact. What is the energy required
+for having a molecule at the surface? As
+mentioned above, roughly it is half the energy
+required to remove it entirely from the liquid
+i.e., half the heat of evaporation.
+Finally, what is a surface? Since a liquid
+consists of molecules moving about, there cannot
+be a perfectly sharp surface. The density of the
+liquid molecules drops rapidly to zero around
+z = 0 as we move along the direction indicated
+Fig 9.14 (c) in a distance of the order of a few
+molecular sizes.
+9.6.2 Surface Energy and Surface Tension
+As we have discussed that an extra energy is
+associated with surface of liquids, the creation
+of more surface (spreading of surface) keeping
+other things like volume fixed requires aSap and water rise up to the top of the leaves of
+the tree, hair of a paint brush do not cling
+together when dry and even when dipped in
+water but form a fine tip when taken out of it.
+All these and many more such experiences are
+related with the free surfaces of liquids. As
+liquids have no definite shape but have a
+definite volume, they acquire a free surface when
+poured in a container . These sur faces  possess
+some additional  energy. This phenomenon is
+known as surface tension and it is concerned
+with only liquid as gases do not have free
+surfaces. Let us now understand this
+phenomena.
+9.6.1 Surface  Energy
+A liquid stays together because of attraction
+between molecules. Consider a molecule well
+inside a liquid. The intermolecular distances are
+such that it is attracted to all the surrounding
+molecules [Fig. 9.14(a)]. This attraction results
+in a negative potential energy for the molecule,
+which depends on the number and distribution
+of molecules around the chosen one. But the
+average potential energy of all the molecules is
+the same. This is supported by the fact that to
+take a collection of such molecules (the liquid)
+and to disperse them far away from each other
+in order to evaporate or vaporise, the heat of
+evaporation required is quite large. For water it
+is of the order of 40 kJ/mol.
+Reprint 2025-26
+
+194 PHYSICS
+horizontal liquid film ending in bar free to slide
+over parallel guides Fig (9.15).
+Fig. 9.15 Stretching a film. (a) A film in equilibrium;
+(b) The film stretched an extra distance.
+Suppose that we move the bar by a small
+distance d as shown. Since the area of the
+surface increases, the system now has more
+energy, this means that some work has been
+done against an internal force. Let this internal
+force be F, the work done by the applied for ce is
+F.d = Fd. From conservation of ener gy, this is
+stored as additional energy in the film. If the
+surface energy of the film is S per unit area, the
+extra area is 2 dl. A film has two sides and the
+liquid in between, so there are two surfaces and
+the extra energy is
+S (2dl) = Fd (9.19)
+Or, S=Fd/2 dl = F/2l (9.20)
+This quantity S is the magnitude of surface
+tension. It is equal to the surface energy per unit
+area of the liquid interface and is also equal to
+the force per unit length exerted by the fluid on
+the movable bar .
+So far we have talked about the surface of
+one liquid. More generally, we need to consider
+fluid surface in contact with other fluids or solid
+surfaces. The surface energy in that case
+depends on the materials on both sides of the
+surface. For example, if the molecules of the
+materials attract each other , surface ener gy is
+reduced while if they repel each other the
+surface energy is increased. Thus, more
+appropriately, the surface energy is the energy
+of the interface between two materials and
+depends on both of them.
+We make the following observations from
+above:
+(i)Surface tension is a force per unit length
+(or surface energy per unit area) acting in
+the plane of the interface between the plane
+of the liquid and any other substance; it also
+is the extra energy that the molecules at the
+interface have as compared to molecules in
+the interior .
+(ii)At any point on the interface besides the
+boundary, we can draw a line and imagine
+equal and opposite surface tension forces
+S per unit length of the line acting
+perpendicular to the line, in the plane of
+the interface. The line is in equilibrium. To
+be more specific, imagine a line of atoms or
+molecules at the surface. The atoms to the
+left pull the line towards them; those to the
+right pull it towards them! This line of
+atoms is in equilibrium under tension. If
+the line really marks the end of the
+interface, as in Figure 9.14 (a) and (b) there
+is only the force S per unit length
+acting inwards.
+Table 9.3 gives the surface tension of various
+liquids. The value of surface tension depends
+on temperature. Like viscosity, the surface
+tension of a liquid usually falls with
+temperature.
+Table 9.3 Surface tension of some liquids at the
+temperatures indicated with the
+heats of the vaporisation
+Liquid Temp (oC) Surface Heat of
+Tension vaporisation
+ (N/m)  (kJ/mol)
+Helium –270 0.000239 0.115
+Oxygen –183 0.0132 7.1
+Ethanol 20 0.0227 40.6
+Water 20 0.0727 44.16
+Mercury 20 0.4355 63.2
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 195
+A fluid will stick to a solid surface if the
+surface energy between fluid and the solid is
+smaller than the sum of surface energies
+between solid-air , and fluid-air . Now ther e is
+attraction between the solid surface and the
+liquid. It can be directly measured
+experimentaly as schematically shown in Fig.
+9.16. A flat vertical glass plate, below which a
+vessel of some liquid is kept, forms one arm of
+the balance. The plate is balanced by weights
+on the other side, with its horizontal edge just
+over water . The vessel is raised slightly till the
+liquid just touches the glass plate and pulls it
+down a little because of sur face tension. W eights
+are added till the plate just clears water .
+Fig. 9.16  Measuring Surface Tension.
+Suppose the additional weight r equir ed is W.
+Then from Eq. 9.20 and the discussion given
+there, the surface tension of the liquid-air
+interface is
+Sla = (W/2l) = (mg/2l ) (9.21)
+where m is the extra mass and l is the length of
+the plate edge. The subscript (la) emphasises
+the fact that the liquid-air interface tension
+is involved.
+9.6.3 Angle of Contact
+The surface of liquid near the plane of contact,
+with another medium is in general curved. The
+angle between tangent to the liquid surface at
+the point of contact and solid surface inside the
+liquid is termed as angle of contact. It is denotedby θ. It is different at interfaces of different pairs
+of liquids and solids. The value of θ determines
+whether a liquid will spread on the surface of a
+solid or it will form droplets on it. For example,
+water forms droplets on lotus leaf as shown in
+Fig. 9.17 (a) while spreads over a clean plastic
+plate as shown in Fig. 9.17(b).
+(a)
+(b)
+Fig. 9.17 Different shapes of water drops with
+interfacial tensions (a) on a lotus leaf (b)
+on a clean plastic plate.
+We consider the thr ee inter facial tensions at
+all the thr ee inter faces, liquid-air , solid-air and
+solid-liquid denoted by  Sla, Ssa and Ssl , respectively
+as given in Fig. 9.17 (a) and (b). A t the line of
+contact, the surface forces between the three media
+must be in equilibrium. From the Fig. 9.17(b) the
+following relation is easily derived.
+Sla cos θ  +  Ssl =  Ssa(9.22)
+The angle of contact is an obtuse angle if
+Ssl  > Sla as in the case of water -leaf inter face
+while it is an acute angle if Ssl  < Sla as in the
+case of water -plastic inter face. When θ is an
+obtuse angle then molecules of liquids are
+attracted strongly to themselves and weakly to
+those of solid, it costs a lot of energy to create a
+liquid-solid surface, and liquid then does not
+wet the solid. This is what happens with water
+on a waxy or oily surface, and with mercury on
+Reprint 2025-26
+
+196 PHYSICS
+any surface. On the other hand, if the molecules
+of the liquid are strongly attracted to those of
+the solid, this will reduce Ssl and therefore,
+cos θ may increase or θ may decrease. In this
+case θ is an acute angle. This is what happens
+for water on glass or on plastic and for kerosene
+oil on virtually anything (it just spreads). Soaps,
+detergents and dying substances are wetting
+agents. When they are added the angle of
+contact becomes small so that these may
+penetrate well and become ef fective. W ater
+proofing agents on the other hand are added to
+create a large angle of contact between the water
+and fibres.
+9.6.4 Drops and Bubbles
+One consequence of surface tension is that free
+liquid drops and bubbles are spherical if effects
+of gravity can be neglected. Y ou must have seen
+this especially clearly in small drops just formed
+in a high-speed spray or jet, and in soap bubbles
+blown by most of us in childhood. Why are drops
+and bubbles spherical? What keeps soap
+bubbles stable?
+As we have been saying repeatedly, a liquid-
+air interface has energy, so for a given volume
+the surface with minimum energy is the one with
+the least area. The sphere has this property.
+Though it is out of the scope of this book, but
+you can check that a sphere is better than at
+least a cube in this respect! So, if gravity and
+other forces (e.g. air resistance) were ineffective,
+liquid drops would be spherical.
+Another interesting consequence of surface
+tension is that the pressure inside a spherical
+drop Fig. 9.18(a) is more than the pressure
+outside. Suppose a spherical drop of radius r is
+in equilibrium. If its radius incr ease by ∆r. The
+extra surface energy is
+[4π(r + ∆r) 2- 4πr2] Sla = 8πr ∆r Sla(9.23)
+If the drop is in equilibrium this energy cost is
+balanced by the energy gain due to
+expansion under the pressure difference ( Pi – Po)
+between the inside of the bubble and the outside.
+The work done is
+W = (Pi – Po) 4πr2∆r (9.24)so that
+(Pi – Po) = (2 Sla/ r) (9.25)
+In general, for a liquid-gas interface, the
+convex side has a higher pressure than the
+concave side. For example, an air bubble in a
+liquid, would have higher pressure inside it.
+See Fig 9.18 (b).
+Fig. 9.18  Drop, cavity and bubble of radius r .
+A bubble Fig 9.18 (c) differs from a drop
+and a cavity; in this it has two interfaces. Applying
+the above argument we have for a bubble
+ (Pi – Po) = (4 Sla/ r) (9.26)
+This is probably why you have to blow hard,
+but not too hard, to form a soap bubble. A little
+extra air pressure is needed inside!
+9.6.5 Capillary Rise
+One consequence of the pressure difference
+across a curved liquid-air interface is the well-
+known effect that water rises up in a narrow
+tube in spite of gravity. The word capilla means
+hair in Latin; if the tube were hair thin, the rise
+would be very large. To see this, consider a
+vertical capillary tube of circular cross section
+(radius a) inserted into an open vessel of water
+(Fig. 9.19). The contact angle between water and
+Fig. 9.19 Capillary rise, (a) Schematic picture of a
+narrow tube immersed water .
+(b) Enlarged picture near interface.
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 197⊳ glass is acute. Thus the surface of water in the
+capillary is concave.  This means that there is
+a pressure difference between the two sides
+of the top surface. This is given by
+(Pi – Po) =(2S/r) = 2S/(a sec θ)
+= (2S/a) cos θ (9.27)
+Thus the pressure of the water inside the
+tube, just at the meniscus (air-water interface)
+is less than the atmospheric pressure. Consider
+the two points A and B in Fig. 9.19(a). They
+must be at the same pressure, namely
+P0 + h ρ g = Pi = PA(9.28)
+where ρ ρρ ρρ is the density of water and h is called
+the capillary rise  [Fig. 9.19(a)]. Using
+Eq. (9.27) and (9.28) we have
+h ρ g = (Pi – P0) = (2S cos θ )/a    (9.29)
+The discussion here, and the Eqs. (9.24) and
+(9.25) make it clear that the capillary rise is due
+to sur face tension. It is lar ger, for a smaller a.
+Typically it is of the order of a few cm for fine
+capillaries. For example, if a = 0.05 cm, using
+the value of surface tension for water (Table 9.3),
+we find that
+h = 2S/(ρ g a)
+  -1
+3 -3 -2 -42×(0.073 N m )=(10 kg m ) (9.8 m s )(5 × 10 m)
+  = 2.98 × 10–2 m = 2.98 cm
+Notice that if the liquid meniscus is convex,
+as for mercury, i.e., if cos  θ is negative then from
+Eq. (9.28) for example, it is clear that the liquid
+will be lower in the capillary !Example 9.10  The lower end of a capillary
+tube of diameter 2.00 mm is dipped 8.00
+cm below the sur face of water in a beaker .
+What is the pressure required in the tube
+in order to blow a hemispherical bubble at
+its end in water? The surface tension of
+water at temperature of the experiments is
+7.30 × 10-2 Nm-1. 1 atmospheric pressure =
+1.01  × 105 Pa, density of water = 1000 kg/m3,
+g = 9.80 m  s-2. Also calculate the excess
+pressure.
+Answer  The excess pressure in a bubble of gas
+in a liquid is given by 2 S/r, wher e S is the
+surface tension of the liquid-gas inter face. Y ou
+should note there is only one liquid surface in
+this case. (For a bubble of liquid in a gas, there
+are two liquid surfaces, so the formula for
+excess pr essur e in that case is 4 S/r.) The
+radius of the bubble is r . Now the pr essur e
+outside the bubble Po equals atmospheric
+pressure plus the pressure due to 8.00 cm of
+water column. That is
+Po = (1.01  × 105 Pa + 0.08 m  × 1000 kg m–3
+    × 9.80 m s–2)
+    = 1.01784  × 105 Pa
+Therefore, the pressure inside the bubble is
+  Pi  = Po + 2S/r
+= 1.01784  × 105 Pa + (2 × 7.3 × 10-2 Pa m/10-3 m)
+= (1.01784 + 0.00146)  × 105  Pa
+= 1.02   × 105 Pa
+where the radius of the bubble is taken
+to be equal to the radius of the capillary tube,
+since the bubble is hemispherical ! (The answer
+has been rounded off to three significant figures.)
+The excess pressure in the bubble is 146 Pa.
+⊳
+SUMMARY
+1. The basic property of a fluid is that it can flow. The fluid does not have any
+resistance to change of its shape. Thus, the shape of a fluid is governed by the
+shape of its container .
+2. A liquid is incompressible and has a free surface of its own. A gas is compressible
+and it expands to occupy all the space available to it.
+3. If F is the normal force exerted by a fluid on an area A then the average pressure Pav
+is defined as the ratio of the force to area
+AFPav=
+Reprint 2025-26
+
+198 PHYSICS
+4. The unit of the pressure is the pascal (Pa). It is the same as N m-2. Other common
+units of pressure are
+1 atm = 1.01 ×105 Pa
+1 bar = 105 Pa
+1 torr = 133 Pa = 0.133 kPa
+1 mm of Hg = 1 torr = 133 Pa
+5. Pascal’s law  states that: Pressure in a fluid at rest is same at all points which are at
+the same height. A change in pressure applied to an enclosed fluid is transmitted
+undiminished to every point of the fluid and the walls of the containing vessel.
+6. The pressure in a fluid varies with depth h according to the expression
+P = Pa + ρgh
+where  ρ is the density of the fluid, assumed uniform.
+7. The volume of an incompressible fluid passing any point every second in a pipe of
+non uniform crossection is the same in the steady flow.
+v A = constant ( v is the velocity and A is the area of crossection)
+The equation is due to mass conservation in incompressible fluid flow.
+8. Bernoulli’s principle  states that as we move along a streamline, the sum of the
+pressure ( P), the kinetic energy per unit volume ( ρv2/2) and the potential energy per
+unit volume ( ρgy) remains a constant.
+P + ρv2/2 + ρgy = constant
+The equation is basically the conservation of energy applied to non viscuss fluid
+motion in steady state. There is no fluid which have zero viscosity, so the above
+statement is true only approximately. The viscosity is like friction and converts the
+kinetic energy to heat energy.
+9. Though shear strain in a fluid does not require shear stress, when a shear stress is
+applied to a fluid, the motion is generated which causes a shear strain growing
+with time. The ratio of the shear stress to the time rate of shearing strain is known
+as coefficient of viscosity, η.
+where symbols have their usual meaning and are defined in the text.
+10. Stokes’ law  states that the viscous drag force F on a sphere of radius a moving with
+velocity v through a fluid of viscosity is, F = 6 πηav.
+11. Surface tension is a force per unit length (or surface energy per unit area) acting in
+the plane of interface between the liquid and the bounding surface. It is the extra
+energy that the molecules at the inter face have as compar ed to the interior .
+POINTS TO PONDER
+1. Pressure is a scalar quantity . The definition of the pressure as “force per unit area”
+may give one false impr ession that pr essur e is a vector . The “for ce” in the numerator of
+the definition is the component of the force normal to the area upon which it is
+impressed. While describing fluids as a concept, shift from particle and rigid body
+mechanics is r equir ed. W e are concer ned with pr operties that vary fr om point to point
+in the fluid.
+2.  One should not think of pressure of a fluid as being exerted only on a solid like the
+walls of a container or a piece of solid matter immersed in the fluid. Pressure exists at
+all points in a fluid. An element of a fluid (such as the one shown in Fig. 9.4) is in
+equilibrium because the pressures exerted on the various faces are equal.
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 199
+3. The expression for pressure
+P = Pa + ρgh
+holds true if fluid is incompressible. Practically speaking it holds for liquids, which
+are largely incompressible and hence  is a constant with height.
+4. The gauge pressure is the difference of the actual pressure and the atmospheric pressure.
+P – Pa = Pg
+Many pressure-measuring devices measure the gauge pressure. These include the tyre
+pressure gauge and the blood pressure gauge (sphygmomanometer).
+5. A streamline is a map of fluid flow. In a steady flow two streamlines do not intersect as
+it means that the fluid particle will have two possible velocities at the point.
+6. Bernoulli’s principle does not hold in presence of viscous drag on the fluid. The work
+done by this dissipative viscous force must be taken into account in this case, and P2
+[Fig. 9.9] will be lower than the value given by Eq. (9.12).
+7. As the temperature rises the atoms of the liquid become more mobile and the coefficient
+of viscosity, η  falls. In a gas the temperature rise increases the random motion of
+atoms and η  increases.
+8. Surface tension arises due to excess potential energy of the molecules on the surface
+in comparison to their potential ener gy in the interior . Such a sur face ener gy is pr esent
+at the interface separating two substances at least one of which is a fluid. It is not the
+property of a single fluid alone.
+EXERCISES
+9.1 Explain why
+(a)The blood pressure in humans is greater at the feet than at the brain
+(b)Atmospheric pressure at a height of about 6 km decreases to nearly half of
+its value at the sea level, though the height of the atmosphere is more than
+100 km
+(c)Hydrostatic pressure is a scalar quantity even though pressure is force
+divided by area.
+9.2 Explain why
+(a)The angle of contact of mercury with glass is obtuse, while that of water
+with glass is acute.
+(b)Water on a clean glass sur face tends to spr ead out while mer cury on the
+same surface tends to form drops. (Put differently, water wets glass while
+mercury does not.)
+Reprint 2025-26
+
+200 PHYSICS
+(c)Surface tension of a liquid is independent of the area of the surface
+(d)Water with deter gent disolved in it should have small angles of contact.
+(e)A drop of liquid under no external forces is always spherical in shape
+9.3 Fill in the blanks using the word(s) from the list appended with each statement:
+(a)Surface tension of liquids generally ... with temperatures (increases / decreases)
+(b)Viscosity of gases ... with temperature, whereas viscosity of   liquids  ...  with
+temperature (increases / decreases)
+(c)For solids with elastic modulus of rigidity, the shearing force is proportional
+to ... , while for fluids it is proportional to ..
+. (shear strain / rate of shear
+strain)
+(d)For a fluid in a stead y flow, the increase in flow speed at a constriction follows
+(conservation of mass / Bernoulli’s principle)
+(e)For the model of  a plane in a wind tunnel, turbulence occurs at a ... speed for
+turbulence for an actual plane (greater / smaller)
+9.4 Explain why
+(a)To keep a piece of paper horizontal, you should blow over , not under , it
+(b)When we try to close a water tap with our fingers, fast jets of water gush
+through the openings between our fingers
+(c)The size of the needle of a syringe controls flow rate better than the thumb
+pressure exerted by a doctor while administering an injection
+(d)A fluid flowing out of a small hole in a vessel results in a backward thrust on
+the vessel
+(e)A spinning cricket ball in air does not follow a parabolic trajectory
+9.5 A 50 kg girl wearing high heel shoes balances on a single heel. The heel is circular with
+a diameter 1.0 cm. What is the pressure exerted by the heel on the horizontal floor ?
+9.6 Toricelli’s barometer used mercury. Pascal duplicated it using French wine of density
+984 kg m–3. Determine the height of the wine column for normal atmospheric
+pressure.
+9.7 A vertical off-shore structure is built to withstand a maximum stress of 109 Pa. Is
+the structure suitable for putting up on top of an oil well in the ocean ? Take the
+depth of the ocean to be roughly 3 km, and ignore ocean currents.
+9.8 A hydraulic automobile lift is designed to lift cars with a maximum mass of 3000
+kg. The area of cross-section of the piston carrying the load is 425 cm2. What
+maximum pressure would the smaller piston have to bear ?
+9.9 A U-tube contains water and methylated spirit separated by mercury. The mercury
+columns in the two arms are in level with 10.0 cm of water in one arm and 12.5 cm
+of spirit in the other . What is the specific gravity of spirit ?
+9.10 In the previous problem, if 15.0 cm of water and spirit each are further poured into
+the respective arms of the tube, what is the difference in the levels of mercury in the
+two arms ? (Specific gravity of mercury = 13.6)
+9.11 Can Bernoulli’s equation be used to describe the flow of water through a rapid in a
+river ? Explain.
+9.12 Does it matter if one uses gauge instead of absolute pressures in applying Bernoulli’s
+equation ? Explain.
+9.13 Glycerine flows steadily through a horizontal tube of length 1.5 m and radius 1.0
+cm. If the amount of glycerine collected per second at one end is 4.0 × 10–3 kg s–1,
+what is the pressure difference between the two ends of the tube ? (Density of glycerine
+= 1.3 × 103 kg m–3 and viscosity of glycerine = 0.83 Pa s). [Y ou may also like to check
+if the assumption of laminar flow in the tube is correct].
+9.14 In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the
+upper and lower surfaces of the wing are 70 m s–1and 63 m s-1 respectively. What is
+the lift on the wing if its area is 2.5 m2 ? Take the density of air to be 1.3 kg m–3.
+9.15 Figures 9.20(a) and (b) refer to the steady flow of a (non-viscous) liquid. Which of
+the two figur es is incorr ect? Why ?
+Reprint 2025-26
+
+MECHANICAL PROPER TIES OF FLUIDS 201
+Fig. 9.20
+9.16 The cylindrical tube of a spray pump has a cross-section of 8.0 cm2 one end of
+which has 40 fine holes each of diameter 1.0 mm. If the liquid flow inside the tube
+is 1.5 m min–1, what is the speed of ejection of the liquid through the holes ?
+9.17 A U-shaped wire is dipped in a soap solution, and removed. The thin soap film
+formed between the wire and the light slider supports a weight of 1.5 × 10–2 N (which
+includes the small weight of the slider). The length of the slider is 30 cm. What is
+the surface tension of the film ?
+9.18 Figure 9.21 (a) shows a thin liquid film supporting a small weight = 4.5 × 10–2 N.
+What is the weight supported by a film of the same liquid at the same temperature
+in Fig. (b) and (c) ? Explain your answer physically.
+Fig. 9.21
+9.19 What is the pressure inside the drop of mercury of radius 3.00 mm at room temperature ?
+Surface  tension of mercury  at that temperature  (20 °C) is 4.65 × 10–1 N m–1. The
+atmospheric pressure is 1.01 × 105 Pa. Also give the excess pressure inside the drop.
+9.20 What is the excess pressure inside a bubble of soap solution of radius 5.00 mm,
+given that the surface tension of soap solution at the temperature (20 °C) is 2.50 ×
+10–2 N m–1? If an air bubble of the same dimension were formed at depth of 40.0 cm
+inside a container containing the soap solution (of relative density 1.20), what would
+be the pressure inside the bubble ? (1 atmospheric pressure is  1.01 × 105 Pa).
+Reprint 2025-26
+

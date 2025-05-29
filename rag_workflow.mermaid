@@ -1,0 +1,33 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	classify_query(classify_query)
+	web_search(web_search)
+	retrieve(retrieve)
+	grade_documents(grade_documents)
+	transform_query(transform_query)
+	summarize_context(summarize_context)
+	generate(generate)
+	critique_answer(critique_answer)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> classify_query;
+	classify_query -. &nbsp;retrieve_internal&nbsp; .-> retrieve;
+	classify_query -.-> web_search;
+	critique_answer -. &nbsp;end&nbsp; .-> __end__;
+	critique_answer -. &nbsp;retry&nbsp; .-> retrieve;
+	generate --> critique_answer;
+	grade_documents -.-> generate;
+	grade_documents -.-> summarize_context;
+	grade_documents -.-> transform_query;
+	retrieve --> grade_documents;
+	summarize_context --> generate;
+	transform_query --> retrieve;
+	web_search --> grade_documents;
+	grade_documents -.-> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

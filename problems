@@ -1,0 +1,3 @@
+django auto loader makes db read only
+
+python manage.py runserver --noreload
