@@ -36,6 +36,19 @@ const ChatInterface = () => {
     isUser: true,
     timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
   };
+      setMessages(prev => [...prev, newMessage]);Add commentMore actions
+
+  const aiText = await fetchAIResponse(messageText);
+
+  const aiResponse: Message = {
+    id: (Date.now() + 1).toString(),
+    text: aiText,
+    isUser: false,
+    timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  };
+
+  setMessages(prev => [...prev, aiResponse]);
+};
 
   setMessages(prev => [...prev, newMessage]);
 
