@@ -43,7 +43,7 @@ const ChatInterface = () => {
     setTimeout(() => {
       const aiResponse: Message = {
         id: (Date.now() + 1).toString(),
-        text: "Thank you for your question! I'm processing your request and will provide you with a comprehensive answer. PrepGPT is designed to help you excel in your studies with personalized assistance and study strategies.",
+        text: "Thank you for your question! I'm processing your request and will provide you with a comprehensive answer.",
         isUser: false,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
