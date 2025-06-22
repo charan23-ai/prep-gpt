@@ -50,7 +50,6 @@ const ChatInterface = () => {
 
   setMessages(prev => [...prev, aiResponse]);
 };
-    setMessages(prev => [...prev, newMessage]);
     
     // Simulate AI response
      const fetchAIResponse = async (userInput: string): Promise<string> => {
