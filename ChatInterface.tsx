@@ -40,16 +40,23 @@ const ChatInterface = () => {
     setMessages(prev => [...prev, newMessage]);
     
     // Simulate AI response
-    setTimeout(() => {
-      const aiResponse: Message = {
-        id: (Date.now() + 1).toString(),
-        text: "Thank you for your question! I'm processing your request and will provide you with a comprehensive answer.",
-        isUser: false,
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-      };
-      setMessages(prev => [...prev, aiResponse]);
-    }, 1000);
-  };
+     const fetchAIResponse = async (userInput: string): Promise<string> => {
+  try {
+    const response = await fetch('http://127.0.0.1:8000/api/chatbot/', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ message: userInput }),
+    });
+
+    const data = await response.json();
+    return data.response;
+  } catch (error) {
+    console.error("Error fetching AI response:", error);
+    return "Oops! Something went wrong. Please try again later.";
+  }
+};
 
   const handleSaveQuestion = (questionId: string) => {
     const messageIndex = messages.findIndex(m => m.id === questionId);
