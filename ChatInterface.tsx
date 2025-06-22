@@ -29,14 +29,27 @@ const ChatInterface = () => {
   const { saveQuestion } = useQuestionStorage();
   const { toast } = useToast();
 
-  const handleSendMessage = (messageText: string) => {
-    const newMessage: Message = {
-      id: Date.now().toString(),
-      text: messageText,
-      isUser: true,
-      timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-    };
-    
+   const handleSendMessage = async (messageText: string) => {
+  const newMessage: Message = {
+    id: Date.now().toString(),
+    text: messageText,
+    isUser: true,
+    timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  };
+
+  setMessages(prev => [...prev, newMessage]);
+
+  const aiText = await fetchAIResponse(messageText);
+
+  const aiResponse: Message = {
+    id: (Date.now() + 1).toString(),
+    text: aiText,
+    isUser: false,
+    timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  };
+
+  setMessages(prev => [...prev, aiResponse]);
+};
     setMessages(prev => [...prev, newMessage]);
     
     // Simulate AI response
