@@ -1,10 +1,9 @@
- import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react-swc";
-import path from "path";
-import { componentTagger } from "lovable-tagger";
+import path from "path"
+import react from "@vitejs/plugin-react"
+import { defineConfig } from "vite"
 
-// ✅ Only this one export
-export default defineConfig(({ mode }) => ({
+// Use a single export default
+export default defineConfig(({ mode }) => {export default defineConfig(({ mode }) => ({
   root: './',
   server: {
     host: "::",
@@ -24,15 +23,17 @@ export default defineConfig(({ mode }) => ({
   }
 }));
 
-import path from "path"
-import react from "@vitejs/plugin-react"
-import { defineConfig } from "vite"
+  // You can add mode-specific logic here if needed.
+  // For example:
+  // const env = loadEnv(mode, process.cwd(), '');
 
-export default defineConfig({
-  plugins: [react()],
-  resolve: {
-    alias: {
-      "@": path.resolve(__dirname, "./src"),
+  return {
+    plugins: [react()],
+    resolve: {
+      alias: {
+        "@": path.resolve(__dirname, "./src"),
+      },
     },
-  },
+    // You can add other vite configurations here
+  }
 })
