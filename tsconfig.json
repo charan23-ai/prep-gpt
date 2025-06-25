@@ -1,21 +1,24 @@
 {
-  "compilerOptions": {
-    // All your other existing compiler options like "target", "lib", etc.
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  },
-  "include": ["src"], // Or your existing include/exclude rules
-  // ... other tsconfig settings
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        }
     },
+    "include": [
+        "src"
+    ],
     "noImplicitAny": false,
     "noUnusedParameters": false,
     "skipLibCheck": true,
     "allowJs": true,
     "noUnusedLocals": false,
-    "strictNullChecks": false
-  }
-}
-  "references": [{ "path": "./tsconfig.node.json" }] // If you have this
+    "strictNullChecks": false,
+    "references": [
+        {
+            "path": "./tsconfig.node.json"
+        }
+    ]
 }
